@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Prepositions 3D Exam",
+  "description": "An interactive Armenian-to-Spanish learning game to master prepositions through 6 mini-games, guided by a 3D teacher with explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
